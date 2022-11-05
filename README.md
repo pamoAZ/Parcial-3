@@ -3,11 +3,13 @@
 2. [Desarrollo](#technologies)
 3. [Resultados](#installation)
 
-### General Info
+### Introduccion
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+En análisis numérico, la regla o método de Simpson (nombrada así en honor de Thomas Simpson) es un método de integración numérica que se utiliza para obtener la aproximación de la integral:
+
+{\displaystyle \int _{a}^{b}f(x)\,dx\approx {\frac {b-a}{6}}\left[f(a)+4f\left({\frac {a+b}{2}}\right)+f(b)\right]} 
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text](![image](https://user-images.githubusercontent.com/90355422/200095186-20b0aa88-55f0-4251-a33c-35f055c4fbd8.png))
 ## Technologies
 ***
 A list of technologies used within the project:
