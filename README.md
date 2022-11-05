@@ -12,12 +12,8 @@ En análisis numérico, la regla o método de Simpson (nombrada así en honor de
 
 En el caso de que el intervalo [a,b] no sea lo suficientemente pequeño, el error al calcular la integral puede ser muy grande. Para ello, se recurre a la fórmula compuesta de Simpson. Se divide el intervalo [a,b] en n subintervalos iguales (con n par),
 ## Desarrollo
-***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-##Resultados
+En la implementacion de este metodo en python, se utilizan las librerias  matplotlib numpy y math, para que el usuario pueda escribir una funcion(que tiene que ser en terminos entendibles para la consola) y por medio del metodo descrito en la introduccion se calcule un valor numero para esta funcion, se utiliza la syntaxis y modulos de las librerias para calcular el valor aproximado a partir de los datos ingresados y el valor real, luego se grafica ambas integrales 
+## Resultados
 ***
 A little intro about the installation. 
 ```
