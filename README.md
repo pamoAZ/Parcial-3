@@ -5,11 +5,12 @@
 
 ### Introduccion
 ***
+Hay una forma de aproximar la integral de una función f(x) entre a y b. Este método consiste en dividir el intervalo h =
+b−a/n en n sub-intervalos (n par) iguales ([a, x1], [x1, x2], ..., [xn−1, b]), de forma tal que xi = a + ih. La integral de f(x) definida entre a y b está dada por
+
 En análisis numérico, la regla o método de Simpson (nombrada así en honor de Thomas Simpson) es un método de integración numérica que se utiliza para obtener la aproximación de la integral:
 
-{\displaystyle \int _{a}^{b}f(x)\,dx\approx {\frac {b-a}{6}}\left[f(a)+4f\left({\frac {a+b}{2}}\right)+f(b)\right]} 
-### Screenshot
-![Image text](![image](https://user-images.githubusercontent.com/90355422/200095186-20b0aa88-55f0-4251-a33c-35f055c4fbd8.png))
+En el caso de que el intervalo [a,b] no sea lo suficientemente pequeño, el error al calcular la integral puede ser muy grande. Para ello, se recurre a la fórmula compuesta de Simpson. Se divide el intervalo [a,b] en n subintervalos iguales (con n par), de manera que {\displaystyle x_{i}=a+ih}{\displaystyle x_{i}=a+ih}, donde {\displaystyle h=(b-a)/n}{\displaystyle h=(b-a)/n} para {\displaystyle i=0,1,...,n}{\displaystyle i=0,1,...,n}
 ## Technologies
 ***
 A list of technologies used within the project:
