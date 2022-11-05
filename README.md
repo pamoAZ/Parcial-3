@@ -1,9 +1,8 @@
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+1. [Introduccion](#general-info)
+2. [Desarrollo](#technologies)
+3. [Resultados](#installation)
+
 ### General Info
 ***
 Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
@@ -43,7 +42,7 @@ To answer this question we use an unordered list:
 * Third point
 3. **Third question in bold**
 Answer of the third question with *italic words*.
-4. **Fourth question in bold**
+4. **Fourth question i
 | Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
 |:--------------|:-------------:|--------------:|
 | text-align left | text-align center | text-align right |
